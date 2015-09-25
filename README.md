@@ -7,6 +7,8 @@ Configurations are intentionally kept minimal. No YCM.
 ### Usage
 It should be fairly easy. Just follow the following instructions step by step.
 
+If you have Vundle.vim installed, you may get an error, but you can ignore it.
+
 #### How to Install
 1. Checkout this repository (preferable to your home directory)
     

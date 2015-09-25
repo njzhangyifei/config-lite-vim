@@ -32,4 +32,8 @@ cp .vimrc ~/.vimrc
 echo 
 echo "Step 3/3 - [Install Plugin (Action Required)]"
 echo 
-echo "Please start your vim ignoring all errors, and type \":PluginInstall\" then press enter"
+echo "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+echo "Please start your vim ignoring all errors,"
+echo "and type \":PluginInstall\" then press enter"
+echo "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+echo 
