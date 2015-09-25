@@ -4,6 +4,8 @@ This configuration is intended to be used on remote servers.
 
 Configurations are intentionally kept minimal. No YCM.
 
+---
+
 ### Usage
 It should be fairly easy. Just follow the following instructions step by step.
 
