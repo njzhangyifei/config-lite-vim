@@ -60,7 +60,7 @@ endif
 
 
 """"relative numbering""""
-set relativenumber
+"set relativenumber
 
 set number
 set ff=unix
@@ -72,7 +72,8 @@ set tabstop=4
 set expandtab
 set backspace=indent,eol,start
 set encoding=utf-8
-set colorcolumn=80
+"ieng6 does not support this
+"set colorcolumn=80
 set cursorline
 set cursorcolumn
 set incsearch
