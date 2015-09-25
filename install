@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 echo "[config-lite-vim  -  Yifei Zhang, Sept 2015]"
 BASE_NAME=`basename \`pwd\``
 EXPECTED_DIR_NAME=config-lite-vim
