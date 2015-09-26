@@ -14,7 +14,7 @@ If you have Vundle.vim installed, you may get an error, but you can ignore it.
 #### How to Install
 1. Checkout this repository (preferable to your home directory)
     
-    `git clone https://github.com/njzhangyifei/config-lite-vim ~/config-lite-vim`
+    `git clone https://github.com/njzhangyifei/config-lite-vim.git ~/config-lite-vim`
 
 2. Change directory into config-lite-vim
     
